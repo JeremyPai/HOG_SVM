@@ -2,7 +2,7 @@
 
 HOG + SVM is a classic object detection method for it is fast to use and can get acceptable accuracy.
 
-For more description about this project, I wrote a medium artical about it. Go check this out! [link](https://medium.com/lifes-a-struggle/hog-svm-c2fb01304c0)
+For more description about this project, I wrote a medium artical about it. Check this out! [link](https://medium.com/lifes-a-struggle/hog-svm-c2fb01304c0)
 
 After running HOG + SVM, we could probably get the following result.
 
